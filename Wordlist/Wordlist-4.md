@@ -8,7 +8,7 @@ careworn
 cardinal  
 caricature  
 carnal  
-carous  
+carouse  
 carp  
 
 -----
@@ -53,7 +53,7 @@ charlatan
 chary  
 chase  
 chasm  
-chavinistic  
+chauvinistic  
 check  
 
 -----
@@ -121,7 +121,7 @@ coltish
 ## Unit 9
 
 coma  
-combusible  
+combustible  
 cluster  
 comity  
 commencement  
@@ -139,7 +139,7 @@ commodious
 commonsensical  
 commotion  
 compendium  
-compacency  
+complacency  
 complaisance  
 compliant  
 compliment  

@@ -67,6 +67,7 @@ acme
 acquiesce  
 acrid  
 acrimonious  
+acumen  
 acute  
 adamant  
 
