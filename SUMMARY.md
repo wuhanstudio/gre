@@ -7,3 +7,4 @@
 * [Word List 3](Wordlist/Wordlist-3.md)
 * [Word List 4](Wordlist/Wordlist-4.md)
 * [Word List 5](Wordlist/Wordlist-5.md)
+* [Word List 6](Wordlist/Wordlist-6.md)
