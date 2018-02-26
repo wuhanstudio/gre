@@ -23,3 +23,4 @@
 * [Word List 19](Wordlist/Wordlist-19.md)
 * [Word List 20](Wordlist/Wordlist-20.md)
 * [Word List 21](Wordlist/Wordlist-21.md)
+* [Word List 22](Wordlist/Wordlist-22.md)
