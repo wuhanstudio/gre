@@ -97,7 +97,7 @@ snarl
 sneer  
 snobbish  
 snub  
-soak 
+soak  
 sober  
 sodden  
 
