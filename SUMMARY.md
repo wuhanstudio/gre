@@ -31,3 +31,4 @@
 * [Word List 27](Wordlist/Wordlist-27.md)
 * [Word List 28](Wordlist/Wordlist-28.md)
 * [Word List 29](Wordlist/Wordlist-29.md)
+* [Word List 30](Wordlist/Wordlist-30.md)
