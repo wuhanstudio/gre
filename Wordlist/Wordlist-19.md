@@ -21,7 +21,7 @@ potentiate
 pout  
 practitioner  
 premium  
-prate 
+prate  
 preach  
 precarious  
 precedent  
@@ -48,7 +48,7 @@ preempt
 preen  
 preface  
 pregnant  
-premeditate 
+premeditate  
 preoccupation  
 preponderant  
 prepossessing  

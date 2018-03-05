@@ -80,7 +80,7 @@ stratagem
 sonorous  
 strand  
 stratify  
-stray 
+stray  
 strenuous  
 striate  
 stricture  
@@ -90,7 +90,7 @@ soothsayer
 
 ## Unit 7
 
-strident 
+strident  
 strike  
 stringent  
 strip  
@@ -110,7 +110,7 @@ stymie
 subdue  
 subject  
 subjugate   
-sublime 
+sublime  
 subliminal  
 submerge  
 submissive  
